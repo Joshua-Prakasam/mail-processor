@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Rule 1",
+        "predicate": "all",
+        "conditions": [
+            {
+                "field_name": "Date",
+                "predicate": "less than",
+                "value": 1,
+                "unit": "days"
+            }
+        ],
+        "actions": [
+            {
+                "type": "Mark as Unread"
+            }
+        ]
+    }
+]

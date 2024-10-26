@@ -1,0 +1,15 @@
+{
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "always"
+        }
+    },
+    "cSpell.words": [
+        "dateutil",
+        "executemany",
+        "googleapiclient",
+        "pydantic"
+    ],
+    "python.analysis.autoImportCompletions": true
+}
